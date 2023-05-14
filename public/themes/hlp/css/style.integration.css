@@ -1,0 +1,45 @@
+body {
+  background-color: #FFF1E6;
+}
+.header-style-1 .header-bottom-bg-color{background-color:#fff1e6;}
+.header-style-1 .header-bottom-bg-color {
+    background-color:#fff1e6;
+    border-bottom: 1px solid #bba9a0;
+    border-top: 1px solid #bba9a0;
+}
+.header-top-ptb-1 {
+    border-bottom: 1px solid #ececec;
+    font-size: 13px;
+    line-height: 1;
+    padding: 7px 0;
+}
+.page-header.breadcrumb-wrap {
+    background-color: #fff1e6;
+    border-bottom: 1px solid #ececec;
+    font-family: var(--font-heading),sans-serif;
+    padding: 20px;
+}
+.loop-grid article {
+    background: #fff1e6;
+    overflow: hidden;
+    position: relative;
+}
+select.form-control{height: 45px;}
+.card{background-color:#fff1e6;}
+.product-cart-wrap.style-2 .product-content-wrap .deals-content {background-color:#fff1e6;}
+
+.padding_eight_all.bg-white {
+ background-color: #fff1e6!important;
+}
+.main-menu>nav>ul>li>a{
+    font-size: 14px;}
+.card-login{
+  border:none;
+  padding:0px;
+  border-radius:none;
+  margin-left: 0px;
+}
+.order-customer-info .order-customer-info-meta
+{
+  color: #000000;
+}
